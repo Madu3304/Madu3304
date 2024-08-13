@@ -41,10 +41,3 @@
   <img src="https://streak-stats.demolab.com?user=Madu3304&locale=en&mode=daily&theme=dracula&hide_border=false_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Madu3304/Madu3304/output/snake.svg" alt="Snake animation" />
-
-###
