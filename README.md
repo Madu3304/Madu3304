@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋, sou a Maria Eduarda! | My name's Eduarda |私の名前は・エドゥアルドです</h2>
+<h2 align="left">Olá 👋, sou a Maria Eduarda! | My name's Eduarda</h2>
 
 ###
 
